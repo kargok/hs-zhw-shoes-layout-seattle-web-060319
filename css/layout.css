@@ -29,6 +29,10 @@
   display: inline-block;
 }
 
+div.col3.shoes {
+  margin-top: 30px;
+}
+
 #feature {
   width: 65.666%;
   float:left;
