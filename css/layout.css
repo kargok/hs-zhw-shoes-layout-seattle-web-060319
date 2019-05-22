@@ -26,11 +26,13 @@
 .col3 {
   column-count: 3;
   column-gap: 30px;
-  display: inline-block;
 }
 
 div.col3.shoes {
   margin-top: 30px;
+  column-count: 3;
+  column-gap: 30px;
+  display: inline-block;
 }
 
 #feature {
