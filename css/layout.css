@@ -29,9 +29,10 @@
 }
 
 #feature {
-  width: 66.666%;
+  width: 64.666%;
+  float:left;
 }
 
 #archive {
-  width: 33.333%;
+  width: 31.333%;
 }
